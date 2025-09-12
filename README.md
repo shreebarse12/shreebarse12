@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shree barse</h1>
-<h3 align="center">Hi there! I'm passionate about Python programming, machine learning, web development using Flask, HTML, and CSS, and working with SQLite databases. I enjoy learning new things and building projects that solve real-world problems. Feel free to explore my repositories and connect with me! 🚀😊</h3>
+<h3 align="center">Hi there! I'm passionate about Python programming, machine learning, web development using Django, HTML, and CSS, and working with SQLite databases. I enjoy learning new things and building projects that solve real-world problems. Feel free to explore my repositories and connect with me! 🚀😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreebarse12&label=Profile%20views&color=0e75b6&style=flat" alt="shreebarse12" /> </p>
 
